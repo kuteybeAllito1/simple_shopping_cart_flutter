@@ -43,3 +43,13 @@ Utilizes the Provider package to manage and update the cart state reactively acr
    ```bash
    git clone https://github.com/kuteybeAllito1/simple_shopping_cart_flutter
    cd simple_shopping_cart_flutter
+
+
+2. **Install dependencies**
+   
+       flutter pub get
+
+3. **Run the app**
+
+       flutter run
+
