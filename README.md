@@ -36,6 +36,12 @@ Utilizes the Provider package to manage and update the cart state reactively acr
 - **Provider** – For state management
 
 ---
+##  Home Page
+![Image](https://github.com/user-attachments/assets/e448c51e-8476-4ef2-9212-8ededee0c7c5)
+
+##  Cat Page
+
+![Image](https://github.com/user-attachments/assets/4164ede0-c054-4b45-b52c-a8d4f4d552ab)
 
 ## 🚀 Getting Started
 
